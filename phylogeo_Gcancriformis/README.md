@@ -6,6 +6,8 @@
 
 - Reanalize data for phylogeny with Bold_data
 
+- Keep the eye on Gasteracantha babies
+
 - Standardize DNA quality for sequencing 
 
 - Confirm field trips to Ecuador and Perú
