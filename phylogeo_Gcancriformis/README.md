@@ -1,24 +1,15 @@
-# **Bitácora_de_trabajo**
+###Contact: fcsalgador@gmail.com
 
-## Author: Fabian C. Salgado-Roa
+## **Color genes and Phylogeography of G. cancriformis**
 
-## Affiliation: Currently I am at Universidad de los Andes and Universidad del Rosario
+- Extract DNA San Andrés Individuals
 
-## Contact: fcsalgador@gmail.com
+- Reanalize data for phylogeny with Bold_data
 
-### Active projects:
+- Standardize DNA quality for sequencing 
 
-1. Color genes and Phylogeography of *Gasteracantha cancriformis*
+- Confirm field trips to Ecuador and Perú
 
-2. Candidate Hybrid zones for Colombia
+- Get ready money for field trips at Universidad de los Andes
 
-3. Phylogeny of *Spinoctenus* spiders
-
-4. Phylogeography of *Ancylometes bogotensis*
-
-
-## *1. Color genes and Phylogeography of G. cancriformis*
-
-Extract DNA
-
-Reanalize data for phylogeny and check for morphs
+- Look up for money at different organizations  
