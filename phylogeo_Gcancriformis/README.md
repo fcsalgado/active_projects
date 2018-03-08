@@ -4,6 +4,8 @@
 
 - Extract DNA San Andrés Individuals
 
+- Submit sequences to NCBI
+
 - Reanalize data for phylogeny with Bold_data
 
 - Keep the eye on Gasteracantha babies
